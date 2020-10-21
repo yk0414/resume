@@ -4,7 +4,7 @@
 
 |key|value|
 |---|---|
-|氏名|妹尾 友(Senoo Yuu)|
+|氏名|妹尾 友（Senoo Yuu）|
 |生年月日|1996/11/27|
 |Twitter||
 |Qiita||
